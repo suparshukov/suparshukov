@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 -->
 [![Linkedin: sparshukov](https://img.shields.io/badge/-Sergey%20Parshukov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sparshukov/)](https://www.linkedin.com/in/sparshukov/)
 [![Kaggle Badge](https://img.shields.io/badge/-serjeeon-teal?style=?style=?style=flat-square&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/serjeeon)](https://www.kaggle.com/serjeeon)
+
+
+Here's a visual summary:
+
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=suparshukov&show_icons=true&theme=tokyonight)
+  ![My top languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=suparshukov&layout=compact&theme=tokyonight)
+  ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suparshukov&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)
